@@ -1,0 +1,174 @@
+.main {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+
+h3,
+h5 {
+    color: #d57d1f;
+}
+
+img {
+    width: 25vw;
+    height: 45vh;
+    margin-top: 1vh;
+}
+
+input {
+    width: 20vw;
+    height: 8vh;
+    background-color: white;
+    margin-top: 4vh;
+    border-radius: 1vh;
+    font-size: 1em;
+    border: white;
+}
+
+.button {
+    width: 8vw;
+    height: 8vh;
+    background-color: white;
+    margin-top: 4vh;
+    border-radius: 1vh;
+    font-size: 1em;
+    border: white;
+    margin-left: 2vw;
+    cursor: pointer;
+}
+
+.search {
+    width: 80vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 6vh;
+}
+
+.grid {
+    width: 20vw;
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    width: 8vw;
+    height: 5vh;
+    border-radius: 0.5vh;
+    background-color: #d57d1f;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+.heading1 {
+    width: 43vw;
+    height: auto;
+    border: 2px solid #d57d1f;
+    color: #d57d1f;
+}
+
+span {
+    font-weight: 400;
+    font-size: 0.8em;
+}
+
+.td1 {
+    width: 8vw;
+}
+
+.Div1 {
+    width: 40vw;
+    height: 45vh;
+    margin-left: 1vw;
+}
+
+.th,
+.td {
+    width: 14vw;
+    height: 5vh;
+    border: 2px solid #d57d1f;
+    text-align: center;
+}
+
+h1 {
+    text-align: right;
+}
+
+table {
+    margin-top: 3vh;
+}
+
+.invoice {
+    width: 8vw;
+    height: 8vh;
+    margin-top: 4vh;
+    border-radius: 1vh;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.span {
+    width: 24vw;
+    height: 5vh;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.total {
+    width: 42.5vw;
+    height: 6vh;
+    border: 2px solid #d57d1f;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+select {
+    width: 20vw;
+    height: 8vh;
+    border-radius: 0.5vh;
+    margin-right: 3vw;
+    background-color: #d57d1f;
+    font-size: 1.2em;
+}
+
+option {
+    background-color: #d57d1f;
+}
+
+h2 {
+    text-align: center;
+    color: #d57d1f;
+    font-size: 4em;
+}
+
+hr {
+    width: auto;
+    height: 0.2vh;
+    background-color: #d57d1f;
+    border: #d57d1f;
+}
+
+.h1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.name {
+    display: flex;
+    flex-direction: row;
+    margin-top: -5vh;
+}
+
+.image {
+    width: auto;
+    height: 38vh;
+}
