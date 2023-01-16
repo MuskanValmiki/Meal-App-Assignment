@@ -8,7 +8,7 @@ function PayBill(props) {
                     <div className="h1"><h1>Muskan's Restaurant</h1><h1>INVOICE</h1></div>
                     <table>
                         <tr><td className="td1"><h4>BILLED TO:</h4></td><td>Really Great Company</td></tr>
-                        <tr><td className="td1"><h4>PAY TO:</h4></td><td>Saloni Chawda Sr. NO. 43, Gujarwadi, Narmada city, Katraj, Pune, Maharashtra-411046</td></tr>
+                        <tr><td className="td1"><h4>PAY TO:</h4></td><td>Muskan Valmiki Sr. NO. 43, Gujarwadi, Narmada city, Katraj, Pune, Maharashtra-411046</td></tr>
                         <tr><td>Bank</td><td>Really Great Bank</td></tr>
                         <tr><td>Account Name</td><td>Muskan Valmikee</td></tr>
                         <tr><td>Account Number</td><td>0000 0000</td></tr>
